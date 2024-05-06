@@ -1,0 +1,26 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#calculator{
+  width: 215px;
+  padding: 10px;
+  border: 1ox solid #000;
+}
+
+button{
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  
+}
+
+#display{
+  width: calc(100% - 10px);
+  height: 40px;
+  margin-bottom: 10px;
+  text-align: right;
+}
