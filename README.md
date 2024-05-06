@@ -1,4 +1,4 @@
-Basic og JavaScript.
+Basics of JavaScript.
 
 Concepts - DOM Manipulation, eventhandling, functions
 
